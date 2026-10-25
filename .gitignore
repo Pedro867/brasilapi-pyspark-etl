@@ -1,1 +1,7 @@
 .venv
+
+pycache
+.pycache
+*.pyc
+
+*.json
