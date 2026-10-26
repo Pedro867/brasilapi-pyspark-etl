@@ -1,6 +1,6 @@
 # BrasilAPI PySpark ETL Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-3.0+-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Architecture](https://img.shields.io/badge/Architecture-Medallion-0052CC?style=for-the-badge)](https://www.databricks.com/glossary/medallion-architecture)
 [![Format](https://img.shields.io/badge/Format-Parquet-009688?style=for-the-badge)](https://parquet.apache.org/)
@@ -78,7 +78,7 @@ brasilapi-pyspark-etl/
 
 ### Prerequisites
 
-* Python 3.8+
+* Python 3.12.3
 * Java OpenJDK 8 or 11 (required by PySpark)
 
 ### Installation
